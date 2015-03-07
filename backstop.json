@@ -1,0 +1,23 @@
+{
+  "viewports": [
+    {
+      "name": "tablet_h",
+      "width": 1024,
+      "height": 768
+    }
+  ],
+  "scenarios": [
+    {
+      "label": "https://github.com/",
+      "url": "https://github.com/",
+      "hideSelectors": [],
+      "removeSelectors": [
+      ],
+      "selectors": [
+        "body"
+      ],
+      "readyEvent": null,
+      "delay": 500
+    }
+  ]
+}
